@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41d4d846-c49b-4bcd-970c-9b5759febd96" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Biến, kiểu dữ liệu và toán tử/BT1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biến, kiểu dữ liệu và toán tử/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biến, kiểu dữ liệu và toán tử/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Biến, kiểu dữ liệu và toán tử/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap-switch-case/bt-switch-case.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt-nhung-javascript/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt-nhung-javascript/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt-nhung-javascript/bt3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt-nhung-javascript/bt3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bt-tinhchisocannang/bmi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../khaibaosd-bien/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../khaibaosd-bien/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiemtranamnhuan/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lt-if-else-if/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lt-switch-case/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lt-switch-case/sign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lt-switch-case/switch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentap-if-else/ex01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentap-toantu/employee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sd-toantu/toantu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sd-toantu/toantu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-sukienbanphim/ball.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-sukienbanphim/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh-sukienbanphim/nobita.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/thuchanh-sukienchuot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ball.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ungdung-maytinh/maytinh.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1P8T8Fdeut3pMqe0XjSzy4bXkh5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../thuchanh-sukienbanphim" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\file hoc tap\thuchanh-sukienchuot" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41d4d846-c49b-4bcd-970c-9b5759febd96" name="Default Changelist" comment="" />
+      <created>1565254563280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565254563280</updated>
+      <workItem from="1565254565308" duration="3103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
